@@ -120,7 +120,6 @@ def show_gif(gif_path: str, width_px: int = 560):
         st.error(f"GIF not found: {gif_path}")
 
 def runaway_no_button_component(height: int = 360):
-    # Runs inside a Streamlit component iframe, so it can only move within this area. [web:94]
     html = f"""
     <div id="arena" style="
         position: relative;
