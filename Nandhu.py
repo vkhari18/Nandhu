@@ -227,8 +227,9 @@ else:
         unsafe_allow_html=True,
     )
 
-show_gif("love-proposal-ajith-kumar.gif")
-show_gif("ajithgifs-ajithkumar.gif")
-show_gif("gesture-kiss.gif")
+    show_gif("love-proposal-ajith-kumar.gif")
+    show_gif("ajithgifs-ajithkumar.gif")
+    show_gif("gesture-kiss.gif")
+
 
 
