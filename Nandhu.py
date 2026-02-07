@@ -228,5 +228,6 @@ else:
     )
 
     show_gif("assets/love-proposal-ajith-kumar.gif")
-    show_gif("assets/ajithgifs-ajithkumar.gif")
-    show_gif("assets/gesture-kiss.gif")
+show_gif("assets/ajithgifs-ajithkumar.gif")
+show_gif("assets/gesture-kiss.gif")
+
